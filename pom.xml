@@ -38,7 +38,7 @@
 		<dependency>
 			<groupId>mysql</groupId>
 			<artifactId>mysql-connector-java</artifactId>
-			<version>5.1.44</version>
+			<version>8.0.28</version>
 		</dependency>
 		<!-- 使用spring的jdbc来对数据库进行简单的增删改查-->
 		<dependency>
